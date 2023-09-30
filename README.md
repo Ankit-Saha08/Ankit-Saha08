@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANKIT SAHA (@Ankit-Saha08)
-- 🌱 B.Tech - CS graduate with a strong academic foundation and a passion for solving complex problems through innovative technology solutions
-- 👀 Interested in Coding using C/Python/Java.
+- 🌱 B.Tech(CS) undergrad with a passion for solving complex problems through innovative technology solutions
+- 👀 Interested in Coding using Java / C / Python.
 - 💞️ Also delving into J2EE dev, automation testing using Selenium WebDriver and Data Analysis.
 - 📫 Email ID - sahaankit2018@gmail.com
 
