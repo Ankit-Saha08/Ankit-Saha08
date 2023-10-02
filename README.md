@@ -8,4 +8,7 @@
 Ankit-Saha08/Ankit-Saha08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Languages and Tools:
+Git  GitHub Terminal   Eclipse   JSP   HTML5   Bootstrap    Selenium   JUnit  TestNG  Gherkins Language
+
 [![An image of @ankitsaha08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitsaha08)](https://holopin.io/@ankitsaha08)
